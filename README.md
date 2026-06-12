@@ -1,7 +1,7 @@
 # zkouska-GitHub
 Testovací repozitář
 # Můj projekt
-Tento projekt byl vytvořen v rámci zkoušky git-hub.
+Tento projekt byl vytvořen vrámci zkoušky git-hub.
 ## Funkce
 - ukázkový projekt
 ## Autor
