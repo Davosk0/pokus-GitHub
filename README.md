@@ -1,5 +1,5 @@
 # zkouska-GitHub
-Tstovací repozitář
+Testovací repozitář
 # Můj projekt
 Tento projekt byl vytvořen v rámci zkoušky git-hub.
 ## Funkce
